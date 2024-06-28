@@ -119,7 +119,7 @@ a {
 
 /*------------------TEAM------------------*/
 .team {
-  background-color: #f4f4fd;
+  background: #f4f4fd;
 }
 
 .team-title {
@@ -133,7 +133,7 @@ a {
 }
 
 .team-list {
-  background-color: #ffffff;
+  background: #ffffff;
 }
 
 .team-item {
