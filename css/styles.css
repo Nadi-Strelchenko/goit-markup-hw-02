@@ -130,6 +130,7 @@ a {
 
 /*------------------TEAM------------------*/
 .team {
+  background-color: #f4f4fd;
 }
 
 .team-title {
@@ -148,6 +149,7 @@ a {
 }
 
 .team-image {
+  background-color: #ffffff;
 }
 
 .team-subtitle {
@@ -177,7 +179,7 @@ a {
 .portfolio-title {
   font-weight: 700;
   font-size: 36px;
-  line-height: 1.11111;
+  line-height: 1.11;
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
