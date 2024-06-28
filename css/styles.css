@@ -16,17 +16,6 @@ a {
   text-decoration: none;
 }
 
-.visually-hidden {
-  position: absolute;
-  width: 1px;
-  height: 1px;
-  margin: -1px;
-  border: 0;
-  padding: 0;
-  white-space: nowrap;
-  overflow: hidden;
-}
-
 /*!----------------HEADER----------------!*/
 
 .logo {
@@ -140,16 +129,17 @@ a {
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
+  text-transform: capitalize;
 }
 
 .team-list {
+  background-color: #ffffff;
 }
 
 .team-item {
 }
 
 .team-image {
-  background-color: #ffffff;
 }
 
 .team-subtitle {
@@ -183,6 +173,7 @@ a {
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
+  text-transform: capitalize;
 }
 
 .portfolio-list {
